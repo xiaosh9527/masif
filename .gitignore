@@ -1,3 +1,4 @@
+masif_seed_search/
 *.pyc
 data/**/00-raw_pdbs/
 data/**/01-benchmark_surfaces/
